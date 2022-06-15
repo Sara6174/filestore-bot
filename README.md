@@ -46,5 +46,5 @@ status - Show number of users in DB
 ```
 
 ### Credits:
-* **Abir Hasan:** [Abir Hasan](https:/github.com/abirhasan2005)
-* **Pyrogrammers:** [Pyrogrammers](https:/github.com/pyrogramers)
+* **Abir Hasan:** [Abir Hasan](https:/github.com/Sara6174)
+* **Pyrogrammers:** [Pyrogrammers](https:/github.com/Sara6174)
